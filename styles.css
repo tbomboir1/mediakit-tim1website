@@ -7,7 +7,7 @@
 
 :root {
   --dark: #1a1a1a;
-  --darker: #111111;
+  --darker: #000000;
   --card-bg: #2a2a2a;
   --orange: #e8632b;
   --orange-hover: #d45520;
@@ -70,7 +70,7 @@ a {
 }
 
 .logo-img {
-  height: 48px;
+  height: 36px;
   width: auto;
 }
 
